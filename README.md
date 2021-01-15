@@ -1,3 +1,6 @@
 # twin_fantasy
 
-The goal of this repo is to create a web app for fantasy basketball. My friends and I usually play fantasy basketball but the COVID-19 pandemic ended the season. We wanted to play fantasy for the NBA restart, so I thought this seemed like a good opportunity to try making a web app.
+The goal of this repo is to create an web app that allows me to make better decisions in fantast basketball.
+Examples of uses:
+- identify basketball players that a certain punt build
+- make trades and see how they affect your team's projected weekly stats
